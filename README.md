@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[TurkPages](https://wwww.turkpages.com/)**
+- 🔭 I’m currently working on **[General Electric](https://www.ge.com/)**
 
 - 🌱 I’m currently learning **Golang**
 
